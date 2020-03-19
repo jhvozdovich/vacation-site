@@ -14,7 +14,7 @@ _This exercise demonstrates the use of Bootstrap to style a HTML webpage._
 * Navigate to index.html file.
 * Right click and open in the browser of your choice.
 
-* Alternatively, open the webpage at jhvozdovich@github.io/vacation-site
+* Alternatively, open the webpage at jhvozdovich.github.io/vacation-site
 
 
 ## Known Bugs
