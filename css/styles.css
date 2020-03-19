@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.panel-default > .panel-heading {
+  background-color: darkred;
+  color: white;
+}
+
+.jumbotron h1 {
+  color: darkred;
+  font-weight: bolder;
+}
+
+.jumbotron h2 {
+  color: darkred;
+}
+
+.jumbotron {
+  background-color: goldenrod;
+  color: darkred;
+}
+
+
+h2 {
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+}
+
+h3 {
+  color: goldenrod;
+}
+
+#flag {
+  width: 100px;
+}
